@@ -14,7 +14,7 @@ How effectively does the retailer retain customers, and what drives the differen
 - Average revenue per invoice was much closer: approximately **€400 for repeat customers vs €345 for one-time customers**.
 - This indicates that the large difference in customer value is driven primarily by **purchase frequency rather than substantially larger individual purchases**.
 - 90-day retention varied considerably across acquisition cohorts, ranging from **15.8% to 68.8%**, with no consistent long-term trend.
-- 
+  
 ## Dashboard
 
 ### Customer Retention Overview

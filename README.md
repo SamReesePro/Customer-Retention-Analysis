@@ -46,6 +46,8 @@ How effectively does the retailer retain customers, and what drives the differen
 - DAX
 - GitHub
 
+The analysis was developed in Power BI, with the dashboard views presented above as screenshots.
+
 ## Dataset
 
 **UCI Online Retail II**
